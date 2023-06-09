@@ -1,7 +1,3 @@
-# 6/5: 35m
-# 6/6: 35m
-# 6/7: 25m
-# 6/8: 40m
 import streamlit as st
 import pandas as pd
 import warnings
